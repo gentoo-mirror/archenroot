@@ -1,0 +1,12 @@
+DEFINED_PHASES=install unpack
+DEPEND=!luajit? ( >=dev-lang/lua-5.1:= ) luajit? ( dev-lang/luajit:2= ) virtual/pkgconfig >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Object classes for Lua
+EAPI=6
+HOMEPAGE=https://github.com/torch/class
+IUSE=doc luajit
+KEYWORDS=~amd64
+LICENSE=BSD
+RDEPEND=!luajit? ( >=dev-lang/lua-5.1:= ) luajit? ( dev-lang/luajit:2= )
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	8c7f9d80beedd16f2e5a7f612c609529
+_md5_=757fa21cdb3fb350726afe8f3bf8d4f2

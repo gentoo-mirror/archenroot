@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=High-level language and platform for analyzing large data sets
+EAPI=5
+HOMEPAGE=http://hadoop.apache.org/
+KEYWORDS=~amd64 ~x86
+LICENSE=Apache-2.0
+RDEPEND=sys-cluster/apache-hadoop-bin
+SLOT=0
+SRC_URI=mirror://apache/pig/pig-0.16.0/pig-0.16.0.tar.gz
+_md5_=e954e6fea281c7405a6ae3ee680ec9ae
