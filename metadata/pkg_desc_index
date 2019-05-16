@@ -1,9 +1,0 @@
-dev-python/psycopg 2.7.1: PostgreSQL database adapter for Python
-dev-python/six 1.10.0: Python 2 and 3 compatibility library
-dev-python/sqlparse 0.2.3: PostgreSQL database adapter for Python
-media-gfx/digikam 5.6.0: Digital photo management application
-net-misc/activemq-bin 5.13.1: Apache ActiveMQ is the most popular and powerful open source messaging and Integration Patterns server
-net-misc/trickle 1.07 9999: A portable lightweight userspace bandwidth shaper
-net-wireless/cowpatty 4.3-r2 4.6-r4: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
-net-wireless/wifite 2.85_p20140806 2.85_p20150508 2.85_p20150526: An automated wireless attack tool
-sci-libs/csparse 4.5.5: Extended sparse matrix package
